@@ -1,0 +1,1 @@
+﻿These `.txt` files are actual console output captured from compiling and running the Java programs in this environment. They are execution evidence, but they are not substitutes for screenshots requested by the instructor. Please run the programs on your own computer and save screenshots of your terminal in this folder.

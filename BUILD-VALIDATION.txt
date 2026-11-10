@@ -1,0 +1,9 @@
+Build environment: OpenJDK 21
+Commands:
+  javac -d out $(find src -name '*.java')
+  javac -d out Task03/ParkingFacility.java
+  javac -d out Task08/FeeDemo.java
+
+Task 3 output: matches all six expected lines.
+Task 8 output: matches all four expected lines.
+Integrated test runner: 8 passed, 0 failed.

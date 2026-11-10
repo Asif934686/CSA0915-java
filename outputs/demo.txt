@@ -1,0 +1,11 @@
+PARKWISE CAMPUS PARKING ? DEMO
+Issued: PW-1001 | CAR[TN01AB1234]
+Issued: PW-1002 | ELECTRIC_CAR[TN02CD5678]
+Issued: PW-1003 | E_BIKE[TN03EF9012]
+Issued: PW-1004 | DELIVERY_VAN[TN04GH3456]
+Car fee: Rs.60.00
+EV fee incl. 2 kWh: Rs.84.00
+E-bike flat fee: Rs.25.00
+Van peak fee: Rs.60.00
+Day collection: Rs.229.00
+Active vehicles: 0

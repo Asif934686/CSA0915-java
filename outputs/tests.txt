@@ -1,0 +1,9 @@
+PASS | normal car fee rounds started hour
+PASS | duplicate active registration rejected
+PASS | zero-minute stay costs zero
+PASS | EV receives charging slot and energy charge
+PASS | e-bike flat fee
+PASS | delivery van peak rate doubles
+PASS | one-day visitor pass applied
+PASS | missing ticket rejected
+SUMMARY | passed=8 failed=0
